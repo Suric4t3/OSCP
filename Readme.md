@@ -1,5 +1,6 @@
 # OSCP Files
-Quelques scripts réalisé pour progresser en programmations
+Quelques scripts réalisés pour progresser en programmations
+
 
 ## AD
 Arbre de décision attaques AD (draw.io) en cours de réalisation ..
@@ -7,4 +8,4 @@ Arbre de décision attaques AD (draw.io) en cours de réalisation ..
 
 
 ## Proxymap
-Script d'optimisation de scan nmap à traves proxychains 
+Script d'optimisation de scan nmap à travs proxychains 
